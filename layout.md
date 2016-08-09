@@ -1,4 +1,3 @@
-untitled.html
 Introduction_The_proposal_of_the__.md
 Simulation_Methodology_Actual_blackboard_cell__.md
 Simpcomp_experiment_Simpcomp_background_Simpcomp__.md
