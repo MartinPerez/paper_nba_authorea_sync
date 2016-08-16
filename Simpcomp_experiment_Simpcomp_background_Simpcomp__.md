@@ -18,3 +18,5 @@ Simpcomp questions and results
 + Check FIR model for the phrases profile of activation with different levels.
 
 + Check nonlinear fitted function \cite{Wager_2005} on list conditions and phrase conditions. It could be that list and phrase conditions exhibit nonlinear increase in activations at different rates or in different phrase moments (This could be a clear indicator of composition even though both lists and phrases increase activation). Also it could be that linear increase signal encoding of a particular item or combination of items. Important to visualize distribution of beta magnitude change patterns in the ROIs and not only the beta magnitudes.
+
++ Check other main effects and details in ANOVA.
