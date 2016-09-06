@@ -4,5 +4,6 @@ Neural_simulations_of_composition_with__.md
 An_important_current_issue_in__.md
 Review_of_the_blackboard_architecture__.md
 Concrete_neural_simulation_of_the__.md
+with_population_density_methods_and__.md
 Shall_we_try_to_get__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
