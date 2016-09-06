@@ -1,4 +1,4 @@
-# Testing the blackboard architecture
+# Simulations on the blackboard architecture
 
 ## Neural simulations of composition with blackboard architectures
 
