@@ -1,1 +1,1 @@
-Example unrelated image
+\label{Example} Example unrelated image
