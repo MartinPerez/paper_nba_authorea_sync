@@ -1,6 +1,5 @@
 # Simulations on the blackboard architecture
 
-
 ## Neural simulations of composition with blackboard architectures
 
 An important current issue in linguistic composition is to assess the biological neural circuitry that could be responsible for its dynamics and the associated syntactic representations. The simplicity of the SimpComp trials, that can be hypothesized as size increasing right branched trees under phrase structure grammars for both noun and verb phrases, give us the opportunity to evaluate simple predictions.
@@ -11,8 +10,8 @@ Here we implement blackboard circuits partially. We implement only the necessary
 
 This means that we are only testing predictions based on average neural activity time series of blackboard cell neural population categories. These time series should allow us to differentiate different syntactic tree morphologies and sizes. In the case of Bold-fMRI differences in the activity attributed to syntactic trees of similar shape but with different grammatical category nodes could give us some insights in the spatial distribution of blackboard circuits. Nonetheless the first test to be passed is if the modeled circuit can adequately account for effect patterns on tree size, otherwise any apparent spatial distributions difference could easily be attributed to diverse sources of noise in Bold-Fmri.
 
-
 ## Review of the blackboard architecture mechanisms and abstract implementation
+
 
 
 ## Concrete neural simulation of the blackboard architecture
