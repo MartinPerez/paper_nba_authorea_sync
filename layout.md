@@ -1,5 +1,5 @@
 Simpcomp_experiment_Simpcomp_background_Simpcomp__.md
 Simulations_on_the_blackboard_architecture__1.md
-Simulations_on_the_blackboard_architecture__.md
+Neural_simulations_of_composition_with__.md
 Shall_we_try_to_get__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
