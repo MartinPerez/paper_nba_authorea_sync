@@ -1,1 +1,1 @@
-# Simulations on the blackboard architecture
+# Simulations of the blackboard architecture
