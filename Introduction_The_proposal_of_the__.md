@@ -1,10 +1,8 @@
-# Introduction
+# Blackboard simulation
 
-## The proposal of the blackboard
+# About the blackboard
 
-
-
-## The problems tackled by the blackboard
+\cite{van_der_Velde_2011}\cite{van_der_Velde_2002}\cite{van_der_Velde_2006}
 
 ## Quick Implications on neural circuit design (summary)
 
