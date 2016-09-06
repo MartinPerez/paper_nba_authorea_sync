@@ -4,7 +4,9 @@ The blackboard assumes grounded representations of concepts in a distributed or 
 
 Lets consider the simplest case of binding two grammatical categories. This takes place in one "compartment circuit" of a "connection matrix". The compartment circuit contains the connection node WM, that itself can be interpreted as a typed edge between the grammatical category nodes under a dependency grammar formalism or as another grammatical category in itself under a phrase structure grammar formalism.
 
-The compartment circuit is engineered with an appropriate combination of simple "gating circuits". So the gating circuit can be seen as the smallest meaningful circuit in a blackboard architecture, composed of interconnected neural populations.
+The compartment circuit is engineered with an appropriate combination of simple "gating circuits". The gating circuit can be seen as the smallest meaningful circuit in a blackboard architecture, composed of interconnected neural populations such that an activation rate is transferred conditionally between a source and target neural populations.
+
+As can be seen in 
 
 Then "A blackboard", the complete blackboard architecture, is a set of connection matrices. Where each connection matrix represents the memory capacity for the dynamic binding of two specific grammatical categories and manages memory slots dynamically through competing mutually inhibitory WM nodes.
 
