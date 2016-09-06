@@ -1,1 +1,1 @@
-Example image
+Example unrelated image
