@@ -5,9 +5,3 @@ grounded representations of concepts in a distributed or local neural population
 binding of concepts represented through the conditional activity of neural populations mimicking working memory dynamics (delay assemblies)
 
 So in the case of sentence processing we can think of the grammatical categories as the grounded concepts and a given syntax tree structure realized through the conditional activity of working memory circuits.
-
-
-
-
-The examples work with dependency grammars, but we can easily adapt this to phrase structure grammars too. (Shall we explore both cases for our trees, likely we should but also predictions might not be different with simple right branched trees)
-
