@@ -21,7 +21,7 @@ Comments on some issues
 LIF populations
 Firing rates
 Synaptic efficacy
-
+issues encountered on oscillatory behavior, accounted by near threshold firing with baseline activity and smoothing rate activity increase
 
 
 
