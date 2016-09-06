@@ -1,4 +1,4 @@
-## Review of the blackboard architecture mechanisms and abstract implementation
+## Review of the blackboard architecture abstract assumptions, mechanisms and implementation
 
 
 
