@@ -1,5 +1,3 @@
-
-
 First differences with respect to complete simulation and previous ones...
 
 Did not make SA reverberating (no need in the circuit structure) the idea of inhibitin SA is unnecesary in the way we consider control activation. Contrary to our argmunets on \cite{velde2015ambiguity}
@@ -25,8 +23,11 @@ issues encountered on oscillatory behavior, accounted by near threshold firing w
 To improve the future circuit implementation more realistic rest state of the network could have been achieved by balanced networks\cite{Wolf_2014}. This is a future expansion too. Also it might be desirable to move to more realistic network models like conductance? and implement realistic synapctic efficacy approximations?
 
 Diagram of actual circuit with parameters and rates. 
+Balckboard code provided in github....
 
-Plot of activation example for all time series. Legend for selected time series. And Plot of total activation of circuit.
+Plot of activation example for all time series. Legend for selected time series. And Plot of total activation of compartment circuit.
+
+Selection of compartment circuit dynamics to facilitate simulation of complete blackboard based on key points... show in plot selected intervals that can be filled up by a stable state for the remaining time, such that the complete blackboard time series are implemented in python. Python code provided in github...
 
 Example activation for a right branch tree the same as above but summing across all cells. Moreover introducing groupings of populations.
 
