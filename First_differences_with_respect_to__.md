@@ -16,6 +16,8 @@ Firing rates. \cite{Roxin_2011}. Most neurons in the circuit silent, (look for s
 
 Synaptic efficacy. Where we get the 0.03 from? As exposed by London\cite{London_2002}, current understanding of synapsis is limited and even contextual measurements of efficacy might be more appropriate to understand the impact of synapcic input on spike output that actual set parameters of the synapse. Moreover recent evidence \cite{Briggs_2013} even shows that synaptic efficacy might be modulated by attention processes and is naive to consider it as a fixed parameter in a circuit. We decide to leave this parameter fixed and homogeneous across the circuit under the lack of appropriate hypothesis to tinker it. From Briggs paper it seems that synchronous firing of an input has probabilities between 3.1 and 7.6 while single firing from 28 to 36.
 
+Connectivity is another topic to take carefully. Connection distribution can have an impact in spike based communication\cite{Teramae_2012}, here we are simply considering homogenous connections.
+
 We mantain a rate of activity transmission with the number of connections. Our simple approach ignore the intrincacies found in different regimes to transmit information in enural networks, where some regimes might allow rich internal computations. \cite{Ostojic_2014}. We simply focus on passing forward mean activity to be able to instantiate binding with WM activation.
 
 issues encountered on oscillatory behavior, accounted by near threshold firing with baseline activity and smoothing rate activity increase
