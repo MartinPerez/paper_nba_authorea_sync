@@ -1,1 +1,1 @@
-## Concrete neural simulation of the blackboard architecture
+## Concrete implementation of the blackboard architecture
