@@ -6,7 +6,9 @@ Lets consider the simplest case of binding two grammatical categories. This take
 
 The compartment circuit is engineered with an appropriate combination of simple "gating circuits". The gating circuit can be seen as the smallest meaningful circuit in a blackboard architecture, composed of interconnected neural populations such that an activation rate is transferred conditionally between a source and target neural populations.
 
-As can be seen in Figure \ref{Example} and in Figure \ref{Example2}
+As can be seen in Figure \ref{Blackboard} and in Figure \ref{Example2}
+
+
 Then "A blackboard", the complete blackboard architecture, is a set of connection matrices. Where each connection matrix represents the memory capacity for the dynamic binding of two specific grammatical categories and manages memory slots dynamically through competing mutually inhibitory WM nodes.
 
 Diagram of gating circuit...
