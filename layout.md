@@ -5,6 +5,7 @@ An_important_current_issue_in__.md
 Review_of_the_blackboard_architecture__.md
 Here_we_will_only_summarize__.md
 figures/gating_circuit2/gating_circuit2.png
+figures/gating_circuit3/gating_circuit3.png
 Concrete_neural_simulation_of_the__.md
 with_population_density_methods_and__.md
 Shall_we_try_to_get__.md
