@@ -4,7 +4,6 @@ Neural_simulations_of_composition_with__.md
 An_important_current_issue_in__.md
 Review_of_the_blackboard_architecture__.md
 Here_we_will_only_summarize__.md
-figures/blackboard/blackboard.png
 figures/1s&10s-number_vs_number/1s&10s-number_vs_number.png
 Concrete_neural_simulation_of_the__.md
 with_population_density_methods_and__.md
