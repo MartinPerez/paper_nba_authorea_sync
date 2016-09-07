@@ -6,6 +6,6 @@ Review_of_the_blackboard_architecture__.md
 Here_we_will_only_summarize__.md
 figures/gating_circuit3/gating_circuit3.png
 Concrete_implementation_of_the_blackboard__.md
-with_population_density_methods_and__.md
+First_differences_with_respect_to__.md
 Shall_we_try_to_get__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
