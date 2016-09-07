@@ -1,4 +1,4 @@
-\label{Blackboard} Blackboard architecture unveiled
+\label{Blackboard} Blackboard architecture.
 
 A. A gating circuit that allows the implementation of conditional neural activity transfer between Neural assemblies X and Y through a gate assembly. The gate keeper assembly initially is also activated by the X assembly and then inhibits the gate assembly, so a control assembly has to inhibit the gate keeper assembly to let information flow through the gate assembly.
 B. The architecture of one cell circuit of a connection matrix is shown. Six gating circuits are arranged such that conditional bidirectional neural activity flow is possible between two main assemblies. Control assemblies regulate the direction of information flow and allow the activation of sub assemblies. The two sub assemblies excite the working memory assembly which once activated encode the binding of the main assemblies and allow activation to flow between them if the controls allow it too.
