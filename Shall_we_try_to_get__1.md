@@ -1,0 +1,3 @@
+## Shall we try to get the activity prediction from Smolensky simulations of energy patterns as a control model? Not biologically realistic and might not have dynamic predictions that differentiate tree size since all tree sizes would be another point to which to arrive dynamically in phase space.
+
+## The examples work with dependency grammars, but we can easily adapt this to phrase structure grammars too. (Shall we explore both cases for our trees, likely we should but also predictions might not be different with simple right branched trees)
