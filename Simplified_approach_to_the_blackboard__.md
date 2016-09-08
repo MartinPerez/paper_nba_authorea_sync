@@ -20,8 +20,7 @@ We do not consider SAs as reverberating neural populations like is the case of W
 
 Diagram of actual circuit with parameters
 
-PARAMETRIZATION OF THE MODEL
-
+### Parameter selection
 
 Firing rates. \cite{Roxin_2011}. Most neurons in the circuit silent, (look for study) but close to fire stimulated by baseline to accept to be driven by coming activity without excessive oscillatory behavior.... In general a very strong oscillatory behavior will be triggered if populations are activated disproportionately with respect to their initial level of activity... fluctuation driven regime around 5hz, so we move WM a bit above this level for its sustained activity and keep the circuit under reasonable levels of activity. Although this is a complex topic that requires study and tuning out of the scope of this work, in any case we only like at the qualitative behavior. We can also inform firing rates from the review of neural activity during decision making \cite{Wohrer_2013}. There is even different firing rate between layers, in some as reported by Kerr\cite{Kerr_2005} less than 0.1 Hz. Attention to the fact that distributions of spontaneous and evoked firing rate are highly similar
 
@@ -29,7 +28,7 @@ Synaptic efficacy. Where we get the 0.03 from? As exposed by London\cite{London_
 
 Connectivity is another topic to take carefully. Connection distribution can have an impact in spike based communication\cite{Teramae_2012}, here we are simply considering homogenous connections.
 
-ABOUT THE DYNAMICS AND ISSUES
+### Circuit dynamics
 
 We mantain a rate of activity transmission with the number of connections. Our simple approach ignore the intrincacies found in different regimes to transmit information in enural networks, where some regimes might allow rich internal computations. \cite{Ostojic_2014}. We simply focus on passing forward mean activity to be able to instantiate binding with WM activation.
 
@@ -39,12 +38,13 @@ To improve the future circuit implementation more realistic rest state of the ne
 
 CONNECTIVITY PARAMETER SELECTION, DYNAMICS AND ISSUES CAN BE TURNED INTO THE STUDY THE BLACKBOARD CIRCUIT STATE SPACE WITH THE HELP OF MARC.
 
-
 Balckboard code provided in github....
 
 Plot of activation example for all time series. Legend for selected time series. And Plot of total activation of compartment circuit.
 
 Selection of compartment circuit dynamics to facilitate simulation of complete blackboard based on key points... show in plot selected intervals that can be filled up by a stable state for the remaining time, such that the complete blackboard time series are implemented in python. Python code provided in github...
+
+### Complete sentence processing simulation
 
 Example activation for a right branch tree the same as above but summing across all cells. Moreover introducing groupings of populations.
 
