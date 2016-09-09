@@ -1,4 +1,4 @@
-Replace this text with your caption
+\label{pdt_case} Case for population density techniques over Wilson Cowan dynamics.
 
 Figure 2.11: Transient reponse for
 rate-based and population density
