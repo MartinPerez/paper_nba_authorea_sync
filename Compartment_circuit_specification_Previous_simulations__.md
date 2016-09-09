@@ -1,4 +1,4 @@
-### Compartment circuit specification
+### Simulation framework and architectural decisions
 
 Previous simulations of the blackboard approximate the mean activity of neural assemblies with Wilson Cowan dynamics \cite{Frank_2014} \cite{de2015combinatorial}. Nonetheless direct simulations of leaky-integrate-and-fire (LIF) neurons \cite{omurtag2000simulation} have faster transient behavior than the pseudo dynamics described by the Wilson Cowan equations, which, as explained by De Kamps \cite{de_Kamps_2008}, only allow to approximate correctly the steady state of neural populations by suggesting what mean firing rates should be. On the other hand, population density techniques \cite{de2013generic} implemented in the MIIND software \cite{de_Kamps_2008} \cite{harrison2011new} can accurately describe the transient dynamics of large populations of the mentioned LIF neurons.
 
