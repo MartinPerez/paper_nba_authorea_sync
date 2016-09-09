@@ -9,6 +9,3 @@ One could further argue that it is desirable to implement even more realistic si
 Simplify modeling of WM as a delay circuit instead of modeling it explicitly with neural populations. This is done as a first approximation but should be replaced for an actual circuit. Nonetheless there are many ways to implement the same qualitative behavior, not sure how to justify this...
 
 We do not consider SAs as reverberating neural populations like is the case of WM, since the way we consider control activation makes it unnecessary. Contrary to our argmunets on \cite{velde2015ambiguity}. We model MA separately from a WM that leads its activation.
-
-Diagram of actual circuit with parameters
-Code available in Github...
