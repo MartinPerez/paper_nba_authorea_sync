@@ -1,4 +1,7 @@
-### Parameter selection
+### Circuit specification and parameter selection
+
+Diagram of actual circuit with parameters
+Code available in Github...
 
 Neuron model parameters... taken from MIIND?
 Parameters used in the study
