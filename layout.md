@@ -8,5 +8,6 @@ figures/gating_circuit3/gating_circuit3.png
 Concrete_implementation_of_the_blackboard__.md
 Simplified_approach_to_the_blackboard__.md
 Compartment_circuit_specification_Previous_simulations__.md
+Parameter_selection_Firing_rates_cite__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
 Shall_we_try_to_get__1.md
