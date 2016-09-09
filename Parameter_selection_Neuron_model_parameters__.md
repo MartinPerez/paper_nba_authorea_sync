@@ -1,6 +1,27 @@
 ### Parameter selection
 
 Neuron model parameters... taken from MIIND?
+Parameters used in the study
+by Omurtag et al. (2000). The membrane
+potentials are rescaled relative to the
+threshold potential, and therefore
+dimensionless
+
+Here τ is the membrane time constant, V rev the reversal potential, I e
+an externally applied current, and R m the membrane resistance. The
+model is completed by a threshold potential V th . If the membrane
+potential approaches V th from below, the membrane potential is
+instantaneously reset to V reset . Sometimes a refractive period τ re f is
+introduced, during which the neuron is inactive. After this period,
+the mebrane potential will V reset .
+
+A population density is defined on a grid. It needs a minimum
+and a maximum potential and a number of bins. The maximum po-
+tential is naturally defined by the threshold potential. The minimum
+must be chosen so as to cover the density throughout the simulation;
+for the current simulation V min = 0 would be sufficient, we chose it
+slightly smaller (V min = − 0.02). We use 500 bins.
+
 
 Firing rates. \cite{Roxin_2011}. Most neurons in the circuit silent, (look for study) but close to fire stimulated by baseline to accept to be driven by coming activity without excessive oscillatory behavior.... In general a very strong oscillatory behavior will be triggered if populations are activated disproportionately with respect to their initial level of activity... fluctuation driven regime around 5hz, so we move WM a bit above this level for its sustained activity and keep the circuit under reasonable levels of activity. Although this is a complex topic that requires study and tuning out of the scope of this work, in any case we only like at the qualitative behavior. We can also inform firing rates from the review of neural activity during decision making \cite{Wohrer_2013}. There is even different firing rate between layers, in some as reported by Kerr\cite{Kerr_2005} less than 0.1 Hz. Attention to the fact that distributions of spontaneous and evoked firing rate are highly similar
 
