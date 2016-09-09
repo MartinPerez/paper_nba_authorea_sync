@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{circuit_spec} Case for population density techniques over Wilson Cowan dynamics.
