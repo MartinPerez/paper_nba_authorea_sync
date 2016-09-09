@@ -12,6 +12,6 @@ figures/case_for_pdt/case_for_pdt.png
 Circuit_specification_and_parameter_selection__.md
 figures/circuit_specs/circuit_specs.png
 Circuit_dynamics_We_mantain_a__.md
-Complete_sentence_processing_simulation_Control__.md
+Complete_sentence_processing_simulation_Duration__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
 Shall_we_try_to_get__1.md
