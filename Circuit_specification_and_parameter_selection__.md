@@ -1,6 +1,6 @@
 ### Circuit specification and parameter selection
 
-Diagram of actual circuit with parameters
+Diagram of actual circuit with parameters \ref{circuit_spec}
 Code available in Github...
 
 Neuron model parameters... taken from MIIND?
