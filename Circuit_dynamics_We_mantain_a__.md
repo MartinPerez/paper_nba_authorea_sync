@@ -4,6 +4,8 @@ We mantain a rate of activity transmission with the number of connections. Our s
 
 issues encountered on oscillatory behavior, accounted by near threshold firing with baseline activity and smoothing rate activity increase
 
+
+
 Control noise resilience can be shown in case controls get activated, baseline levels do not activate WM.
 
 two MA activity necessary for WM activated. Otherwise it does not activate. Can show plot.
