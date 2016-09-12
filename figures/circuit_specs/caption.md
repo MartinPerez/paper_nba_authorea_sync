@@ -1,1 +1,3 @@
 \label{circuit_spec} Case for population density techniques over Wilson Cowan dynamics.
+
+A. Details of the Compartment Circuit implementation. Only half of the circuit is shown since the design is symmetric. The baseline (B) and Event input (Inp) populations are part of the simulation and not of the original abstract circuit proposal. B. The behavior of the artificial neural populations and their selected parameters is shown.
