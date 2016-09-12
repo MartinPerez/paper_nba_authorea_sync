@@ -1,6 +1,8 @@
 ### Circuit dynamics
 
-Control noise resilience can be shown in case controls get activated, baseline levels do not activate WM. two MA activity necessary for WM activated. Otherwise it does not activate. MA active creates elevated levels of activity in SA that would facilitate information flow and WM further prolonged activity.
+Plot baseline activity of circuit, show how its different across the nodes.
+
+Control noise resilience can be shown in case controls get activated, baseline levels do not activate WM. two MA activity necessary for WM activated. Otherwise it does not activate. WM active creates elevated levels of activity in SA that would facilitate information flow and WM further prolonged activity.
 
 Plot of activation example for all time series. Legend for selected time series. And Plot of total activation of compartment circuit.
 
