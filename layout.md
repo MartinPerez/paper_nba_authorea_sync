@@ -12,6 +12,7 @@ figures/case_for_pdt/case_for_pdt.png
 Compartment_circuit_specification_and_parameter__.md
 figures/circuit_specs/gating_circuit.png
 Compartment_circuit_dynamics_There_are__.md
+figures/activity_profiles/activity_profiles.png
 Complete_sentence_processing_simulation_Duration__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
 Shall_we_try_to_get__1.md
