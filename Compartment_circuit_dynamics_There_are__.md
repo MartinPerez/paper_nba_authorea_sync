@@ -1,7 +1,7 @@
 ### Compartment circuit dynamics
 
 There are four possible states of the compartment circuit 
-\ref{circuit_dyn}
+\ref{activity_profiles}
 
 How baseline activity affects an isolated node... How baseline activity drives the completely connected circuit...
 How MA activation is driven by WM...
@@ -21,3 +21,5 @@ To improve the future circuit implementation more realistic rest state of the ne
 
 
 Selection of compartment circuit dynamics to facilitate simulation of complete blackboard based on key points... show in plot selected intervals that can be filled up by a stable state for the remaining time, such that the complete blackboard time series are implemented in python. Python code provided in github...
+
+Is is possible to simplify the simulation of a complete blackboard by taking into account the segments of dynamic neural activity of a particular compartment circuit
