@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{sentence_example} Sentence processing example
