@@ -14,6 +14,6 @@ figures/circuit_specs/gating_circuit.png
 Compartment_circuit_dynamics_The_dynamics__.md
 figures/activity_profiles/activity_profiles.png
 figures/dynamic_segments/dynamic_segments.png
-Complete_sentence_processing_simulation_Duration__.md
+Complete_sentence_processing_simulation_Selection__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
 Shall_we_try_to_get__1.md
