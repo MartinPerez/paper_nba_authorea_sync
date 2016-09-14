@@ -1,25 +1,13 @@
 ### Compartment circuit dynamics
 
-There are four possible states of the compartment circuit 
-\ref{activity_profiles}
+The dynamics of the compartment circuit can be summarized by a combination of the events that recruit MAs and the events that activate the control nodes. MAs can be activated from WM activity derived from processing a word or a phrase category during parsing.
 
-How baseline activity affects an isolated node... How baseline activity drives the completely connected circuit...
-How MA activation is driven by WM...
-How letting MA activation pass through with control affects the circuit...
-How the circuit behaves when both MA and controls are active...
+Baseline activity would refer to the steady state of the circuit when no MA activity is taking place and the controls remain silent. In this state all LIF populations are simply receiving an input baseline rate of 1 Hz from the artificial baseline neural population. Nonetheless the architecture of the circuit creates a steady state where the activity of the different neural populations reflect their roles. Gs show a low profile of activation, while GKs show the highest, reflecting that the flow of neural activity between MAs and SAs is being repressed effectively.
 
-Simplify circuit simulation by characterizing the 4 segments of activity... plot them separately and explain them...
+It is interesting to see that SAs have a higher steady state activity of MAs since they are the center recipient of neural activity of the circuit and at least some neural activation manages to leak the gates. The specific firing rate of the different LIF populations during baseline activity can be seen in Figure \ref{activity_profiles}. Note that current assumptions on the baseline activity of the circuit during resting state are overly simplistic. In future work we would recommend to consider more appropriately homeostatic mechanisms in cortical circuits \cite{turrigiano2011too} and balanced networks \cite{Wolf_2014} to account for baseline dynamics.
 
-Plot baseline activity of circuit, show how its different across the nodes.
+We can observe that, as expected, activating the WM that leads to the activation of one of the two MAs, originates strong inhibitory activity in the GK that compensate the flow of neural activity from MA to G to avoid activation of the corresponding SA. Moreover it can be seen in Figure \ref{activity_profiles} that in case Ctl activation would take place when only one MA is active, the circuit effectively do not activate the binding WM and will simply return to an appropriate steady state once Ctl stops.
 
-Control noise resilience can be shown in case controls get activated, baseline levels do not activate WM. two MA activity necessary for WM activated. Otherwise it does not activate. WM active creates elevated levels of activity in SA that would facilitate information flow and WM further prolonged activity.
+In case both MAs are active and Ctl activates to allow activity flow from MAs to their SAs, effectively the binding will take place by activation of WM. Moreover as can be seen in Figure \ref{activity_profiles} other interesting dynamics take place. During the process of binding the reverberating activity of WM that inhibits the GKs connecting SAs creates a sudden burst of activity leading to a pronounced spike as SAs create a self excitatory loop, also elevating the activity of Gs and GKs between them. This burst of activity quickly drops back to a steady state that leaves the inner circuit in a level of activity far greater than in its original resting state, facilitating communication between MAs.
 
-Plot of activation example for all time series. Legend for selected time series. And Plot of total activation of compartment circuit.
-
-
-To improve the future circuit implementation more realistic rest state of the network could have been achieved by balanced networks\cite{Wolf_2014}. This is a future expansion too. Also it might be desirable to move to more realistic network models like conductance? and implement dynamic synaptic efficacy enhancement during processing?
-
-
-Selection of compartment circuit dynamics to facilitate simulation of complete blackboard based on key points... show in plot selected intervals that can be filled up by a stable state for the remaining time, such that the complete blackboard time series are implemented in python. Python code provided in github...
-
-Is is possible to simplify the simulation of a complete blackboard by taking into account the segments of dynamic neural activity of a particular compartment circuit
+A similar behavior during sentence parsing was observed by Van der Velde et al.\cite{velde2015ambiguity} in their simulation. This mechanism could explain qualitative observations in intracortical recordings during language processing *(Can not find proper reference to Matthews work, no document can be find online regarding the reference in Van der Velde paper 2015)*. Its important to note here that appropriate activation of the Ctl populations avoid uncontrolled self excitatory loops of activity in the whole circuit. In this simulation the Ctl nodes regulating information flow from SAs to MAs were always inactive, allowing effective suppression of neural activity flow back to MAs when SAs were being excited by them.
