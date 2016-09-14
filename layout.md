@@ -17,4 +17,3 @@ Dynamics_of_complete_sentence_processing__.md
 figures/dynamic_segments/dynamic_segments.png
 figures/example2/example2.png
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
-Shall_we_try_to_get__1.md
