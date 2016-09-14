@@ -13,7 +13,7 @@ Compartment_circuit_specification_and_parameter__.md
 figures/circuit_specs/gating_circuit.png
 Compartment_circuit_dynamics_The_dynamics__.md
 figures/activity_profiles/activity_profiles.png
-Complete_sentence_processing_simulation_Selection__.md
+Dynamics_of_complete_sentence_processing__.md
 figures/dynamic_segments/dynamic_segments.png
 figures/example/example.png
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
