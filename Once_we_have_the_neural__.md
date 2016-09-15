@@ -9,9 +9,3 @@ We take activity minus baseline activity to look at differences in neural activi
 We normalize time series to look at relative and qualitative effects. Moreover to give equal weight to time series in a regression model and allow the betas to be determined then...
 
 Example activation for a right branch tree the same as above but summing across all cells. Moreover introducing groupings of populations.
-
-Explain patterns in phrases vs list of words for right branched trees for Simpcomp.
-
-Preparation of data for Bold-fMRI. Example plot of hemodynamics on same plot as above, Overlapped to emphasize difference in time scales of responses.
-
-Time series correlations and convolution analysis (asking for ridge later on)
