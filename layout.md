@@ -19,5 +19,5 @@ Once_we_have_the_neural__.md
 figures/example2/example2.png
 The_blackboard_and_Simpcomp_stimuli__.md
 figures/phrases_vs_lists/phrases_vs_lists.png
-for_blackboard_in_Bold_fMRI__.md
+From_simulated_neural_activity_to__.md
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
