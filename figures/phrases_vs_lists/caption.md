@@ -1,1 +1,1 @@
-\label{phrase_activity} Sentence processing example
+\label{phrase_activity} Neural activity of phrases of right branched tree structure
