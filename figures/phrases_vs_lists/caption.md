@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{phrase_activity} Sentence processing example
