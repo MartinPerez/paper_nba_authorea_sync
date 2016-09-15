@@ -17,5 +17,6 @@ Dynamics_of_complete_sentence_processing__.md
 figures/dynamic_segments/dynamic_segments.png
 Once_we_have_the_neural__.md
 figures/example2/example2.png
+Explain_patterns_in_phrases_vs__.md
 figures/phrases_vs_lists/phrases_vs_lists.png
 Blackboard_simulations_on_Simpcomp_Blackboard__.md
