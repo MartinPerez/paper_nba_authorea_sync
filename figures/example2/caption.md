@@ -1,1 +1,3 @@
 \label{sentence_example} Sentence processing example
+
+A. Tree structure hypothesized for a given 4 words phrase. It is shown how compartment circuits correspond to sections of the tree structure and how the nodes corresponding to grammatical categories of words processed or phrase nodes are instantiate in time under a particular bottom-up parsing approach. B. Blackboard time series that correspond to the simulated processing of the considered tree structure and time of activation of the nodes. The separate activity of the LIF populations of each compartment circuit are shown separately, followed by their summary and total activity.
