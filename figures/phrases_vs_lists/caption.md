@@ -1,1 +1,3 @@
 \label{phrase_activity} Neural activity of phrases of right branched tree structure
+
+A. The summary time series of the different LIF populations is shown for the processing of phrases with size increasing right branching tree structures. This is contrasted with the activity in the case of simple lists of words for which no binding takes place. B. Distance correlation of the neural activity of the different LIF populations in phrases. C. Pearson correlation of the neural activity of the different LIF populations in phrases.
