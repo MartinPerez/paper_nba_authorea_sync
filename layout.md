@@ -9,6 +9,7 @@ Concrete_implementation_of_the_blackboard__.md
 Simplified_approach_to_the_blackboard__.md
 Simulation_framework_and_architectural_decisions__.md
 figures/case_for_pdt/case_for_pdt.png
+figures/case_for_pdt1/case_for_pdt1.png
 Compartment_circuit_specification_and_parameter__.md
 figures/circuit_specs/gating_circuit.png
 Compartment_circuit_dynamics_The_dynamics__.md
