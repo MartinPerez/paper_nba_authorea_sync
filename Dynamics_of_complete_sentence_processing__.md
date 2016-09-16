@@ -6,4 +6,4 @@ We can identify, in the binding activity profile, four segments of neural dynami
 
 Moreover from the partial activity profile of circuit activity we can extract an additional segment representing the stop of the first MA of activity when no other dynamics took place in the circuit, that goes from 1550ms to 1650ms (100ms duration). This is useful to model the case of list of words processing, in which MAs activity would be instantiated but no binding would take place.
 
-The Python code employed to extract the segments and simulate complete sentence processing for a given tree structure is available in the Githug repository xxx.
+The Python code employed to extract the segments and simulate complete sentence processing for a given tree structure is available in the Github repository xxx.
