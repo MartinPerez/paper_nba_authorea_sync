@@ -17,6 +17,7 @@ figures/dynamic_segments/dynamic_segments.png
 Once_we_have_the_neural__.md
 figures/example2/example.png
 The_blackboard_and_Simpcomp_stimuli__.md
+SECTION_OF_APPLICATIONS_SHOWING_NEURAL__.md
 figures/phrases_vs_lists/phrases_vs_lists.png
 From_simulated_neural_activity_to__.md
 Ecog_parsing_analysis_Task_description__.md
